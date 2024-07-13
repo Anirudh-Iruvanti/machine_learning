@@ -1,0 +1,5 @@
+This is an XOR gate implemented as Neural network.
+There are no hidden layers in this model.
+Framework used: TensorFlow
+This is a widely available example implemented for practice purpose.
+This is implemented by referring online tutorials.
