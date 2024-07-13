@@ -1,0 +1,5 @@
+This dataset is downloaded from Kaggle.
+This is a Beverage/Wine Quality Binary classifier implemented with a Neural Network.
+Framework used: TensorFlow, Keras
+This is a widely available example implemented for practice purpose.
+This is implemented by referring online tutorials.
