@@ -1,0 +1,4 @@
+This code is a Linear Regression with 2 input features.
+Gradient Descent (Batch) is used to optimize the model.
+No ML framework is used. This is built from scratch using Numpy.
+The dataset : student_grades.csv is a custom dataset.
