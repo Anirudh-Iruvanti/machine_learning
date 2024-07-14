@@ -21,7 +21,7 @@ print('csv data size \n', sample_shape)  # csv data size row x column
 missing_values = df.isnull().sum()  # checking csv for sum of missing values in each column
 print('Missing values sum each column \n', missing_values)
 # As no.of missing data is insignificant, drop the rows from df
-df = df.dropna()  # drop NaN (Null data)
+df = df.dropna()  # drop NaN
 missing_values = df.isnull().sum()  # checking csv for missing values dropped or not
 print('Missing values sum each column after redundant data dropped \n', missing_values)
 # From dataset, for "type" column, check data value count
